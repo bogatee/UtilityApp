@@ -2,19 +2,19 @@ UtilityApp
 A utility application for Android that provides quick access to useful daily information.
 
 Features:
-Quote of the Day:
+1. Quote of the Day:
 Displays random inspirational quotes. If the internet connection is unavailable, the app shows saved quotes as a fallback option.
 
-Currency Converter:
+2. Currency Converter:
 Converts between different currencies using real-time exchange rates. Users can select from multiple currency options.
 
-Weather Forecast:
+3. Weather Forecast:
 Shows current weather conditions for any city using live data from OpenWeatherMap. Displays temperature, feels like temperature, humidity, and weather description.
 
-Random Recipes:
+4. Random Recipes:
 Presents random recipes from around the world including ingredients and cooking instructions.
 
-Settings:
+5. Settings:
 Allows users to customize their experience with the following options:
 
 Light or Dark theme
