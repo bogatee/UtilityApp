@@ -1,7 +1,9 @@
-UtilityApp
+UtilityApp:
+
 A utility application for Android that provides quick access to useful daily information.
 
 Features:
+
 1. Quote of the Day:
 Displays random inspirational quotes. If the internet connection is unavailable, the app shows saved quotes as a fallback option.
 
@@ -15,54 +17,53 @@ Shows current weather conditions for any city using live data from OpenWeatherMa
 Presents random recipes from around the world including ingredients and cooking instructions.
 
 5. Settings:
-Allows users to customize their experience with the following options:
+Allows users to customize their experience with the following options.
 
-Light or Dark theme
+6. Light or Dark theme:
+Language selection (English, Spanish, French, German, Japanese).
 
-Language selection (English, Spanish, French, German, Japanese)
-
-Background music on/off toggle
+7. Background music on/off toggle.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Screenshots:
 
-UtilityApp Home:
+1. UtilityApp Home:
 
 
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/18071e62-482e-46ac-9568-0a0dc5173d24" />
 
 
 
-Quote of the day:
+2. Quote of the day:
 
 
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/514a7c63-c88d-4823-89c1-b7ad7ed814f8" />
 
 
 
-Currency Converter:
+3. Currency Converter:
 
 
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/31a769a0-7bd7-4315-9e02-78d62f4f803a" />
 
 
 
-Weather Forecast:
+4. Weather Forecast:
 
 
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/0d01d341-4310-41d4-b0ec-ef44b0ff4430" />
 
 
 
-Food Recipe:
+5. Food Recipe:
 
 
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/df73cd4d-2c68-48de-8e5e-f0769783b4a1" />
 
 
 
-Settings:
+6. Settings:
 
 
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/0448d94f-56f6-4b9d-bb49-7cfc18eb7588" />
@@ -72,29 +73,45 @@ Settings:
 -------------------------------------------------------------------------------------------------
 
 Technologies Used:
-Kotlin programming language
-Jetpack Compose for UI development
-Material Design 3 for consistent styling
-ViewModel and StateFlow for managing app data
-Koin for dependency injection
-Retrofit for API communication
-DataStore and SharedPreferences for saving user settings
+1. Kotlin programming language.
+   
+2. Jetpack Compose for UI development.
+   
+3. Material Design 3 for consistent styling.
+   
+4. ViewModel and StateFlow for managing app data.
+   
+5. Koin for dependency injection.
+
+6. Retrofit for API communication.
+ 
+7. DataStore and SharedPreferences for saving user settings.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 APIs Used:
-Quotable API - Provides random quotes (https://github.com/lukePeavey/quotable)
-Frankfurter API - Supplies currency exchange rates (https://www.frankfurter.app/)
-OpenWeatherMap API - Delivers weather data (https://openweathermap.org/)
-TheMealDB API - Offers random recipe information (https://www.themealdb.com/)
+1. Quotable API - Provides random quotes (https://github.com/lukePeavey/quotable)
+   
+2. Frankfurter API - Supplies currency exchange rates (https://www.frankfurter.app/)
+   
+3. OpenWeatherMap API - Delivers weather data (https://openweathermap.org/)
+   
+4. TheMealDB API - Offers random recipe information (https://www.themealdb.com/)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 How to Run the Project:
-Download or clone the repository from GitHub
-Open the project in Android Studio
-Add your personal OpenWeatherMap API key in the WeatherRepository.kt file
-Build and run the app on an emulator or physical device (minimum Android SDK version 26 required)
+Step 1:
+Download or clone the repository from GitHub.
+
+Step 2:
+Open the project in Android Studio.
+
+Step 3:
+Add your personal OpenWeatherMap API key in the WeatherRepository.kt file.
+
+Step 4:
+Build and run the app on an emulator or physical device (minimum Android SDK version 26 required).
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
