@@ -117,6 +117,7 @@ Build and run the app on an emulator or physical device (minimum Android SDK ver
 
 About the Project:
 
+
 This application was developed as part of an advanced mobile technology assignment. 
 It demonstrates the use of modern Android development practices including clean architecture, dependency injection, and working with external web APIs.
 
