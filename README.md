@@ -29,30 +29,36 @@ Screenshots:
 
 UtilityApp Home:
 
+
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/18071e62-482e-46ac-9568-0a0dc5173d24" />
 
 
 Quote of the day:
+
 
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/514a7c63-c88d-4823-89c1-b7ad7ed814f8" />
 
 
 Currency Converter:
 
+
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/31a769a0-7bd7-4315-9e02-78d62f4f803a" />
 
 
 Weather Forecast:
+
 
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/0d01d341-4310-41d4-b0ec-ef44b0ff4430" />
 
 
 Food Recipe:
 
+
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/df73cd4d-2c68-48de-8e5e-f0769783b4a1" />
 
 
 Settings:
+
 
 <img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/0448d94f-56f6-4b9d-bb49-7cfc18eb7588" />
 
