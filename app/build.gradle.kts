@@ -61,4 +61,25 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.2") //1.8.1
 
 
+   // new for assessment 1
+
+    // Koin for Dependency Injection
+    implementation("io.insert-koin:koin-android:3.5.3")
+    implementation("io.insert-koin:koin-androidx-compose:3.5.3")
+
+    // Gson converter for Retrofit (replace scalars)
+    implementation("com.squareup.retrofit2:converter-gson:2.9.0")
+
+    // DataStore for settings
+    implementation("androidx.datastore:datastore-preferences:1.0.0")
+
+    // Navigation Compose (for multiple screens)
+    implementation("androidx.navigation:navigation-compose:2.7.7")
+
+    // Extended icons
+    implementation("androidx.compose.material:material-icons-extended:1.6.0")
+
+    implementation("com.squareup.okhttp3:logging-interceptor:4.12.0")
+
+
 }
