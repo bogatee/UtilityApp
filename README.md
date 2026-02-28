@@ -28,7 +28,7 @@ Background music on/off toggle
 Screenshots:
 
 UtilityApp Home:
-<img width="470" height="1012" alt="image" src="https://github.com/user-attachments/assets/18071e62-482e-46ac-9568-0a0dc5173d24" />
+<img width="200" height="500" alt="image" src="https://github.com/user-attachments/assets/18071e62-482e-46ac-9568-0a0dc5173d24" />
 
 Quote of the day:
 <img width="463" height="1003" alt="image" src="https://github.com/user-attachments/assets/514a7c63-c88d-4823-89c1-b7ad7ed814f8" />
